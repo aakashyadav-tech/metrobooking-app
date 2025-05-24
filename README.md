@@ -10,7 +10,7 @@
 ---
 
 ## ⚡️ Configuration
-
+You have to create a database in mysql with name metrobooking. 
 Edit the `application.yml` inside the `executable/` directory to configure database and server settings:
 
 ### Example `application.yml`
