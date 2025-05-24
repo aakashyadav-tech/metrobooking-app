@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: metro-booking-app
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/metrobooking
+    username: root
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
